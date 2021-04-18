@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhisek-web
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science specializing in Deep Learning
 - 💞️ I’m looking to collaborate on projects on python and Machine Learning
 - 📫 How to reach me..
 
