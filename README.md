@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhisek-web
 - 👀 I’m interested in coding.
-- 🌱 I’ve completed my Data Science PGD degree specializing in Deep Learning
+- 🌱 I’ve completed my Data Science PGD degree specializing in Deep Learning from International Institute of Information technology, Bangalore.
 - 💞️ I’m looking to collaborate on projects on python,SQL,Machine Learning and Deep Learning.
 - 📫 How to reach me.. https://www.linkedin.com/in/abhisek-de/
 
